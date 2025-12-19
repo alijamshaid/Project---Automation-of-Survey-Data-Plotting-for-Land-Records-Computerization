@@ -12,5 +12,6 @@ manual plotting efforts.
 
 This Project having one python script which uses mainly uses arcpy and other libraries to
 implement the automation of plotting, and mapping  of survey data.
+
 Python file : AutomationDailySurvey
 
