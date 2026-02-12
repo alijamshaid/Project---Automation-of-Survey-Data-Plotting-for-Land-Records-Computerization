@@ -1,4 +1,4 @@
-# Project---Automation-of-Survey-Data-Plotting-for-Land-Records-Computerization
+# Project---Automation-of-Survey-Data-Plotting-using-arcpy
 
 Goal of this project is to automate the plotting survey data as manual process of plotting this data is consuming and highly prone 
 to errors.
